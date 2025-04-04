@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Weber Trevisan 😁
+## Bem-vindo(a) ao perfil do Weber Trevisan
 
  <div>
    <a href="https://github.com/WeberTrevisan">
@@ -14,6 +14,7 @@
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg"> 
  <img align="center" alt="dotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dot-net/dot-net-original-wordmark.svg">
+ <img align="center" alt="dotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg">
 </div>
  
 <br>
