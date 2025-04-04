@@ -14,7 +14,10 @@
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/csharp/csharp-original.svg"> 
  <img align="center" alt="dotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dot-net/dot-net-original-wordmark.svg">
- <img align="center" alt="dotNet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg">
+ <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg">
+ <img align="center" alt="conda" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/anaconda/anaconda-original.svg">
+ <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg">
+ <img align="center" alt="Pytorch" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg">
 </div>
  
 <br>
