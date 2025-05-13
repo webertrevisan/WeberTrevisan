@@ -17,7 +17,7 @@
  <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg">
  <img align="center" alt="conda" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/anaconda/anaconda-original.svg">
  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg">
- <img align="center" alt="Pytorch" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg">
+ <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dart/dart-original-wordmark.svg">
 </div>
  
 <br>
